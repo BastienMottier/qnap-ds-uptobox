@@ -1,0 +1,45 @@
+{
+    "author": "Bastien Mottier",
+    "website": "https://bastien.dev",
+    "name": "uptobox.com",
+    "addon": "uptobox.com.php",
+    "class": "Uptobox",
+    "hosts": [
+        "uptobox.com"
+    ],
+    "domain": "uptobox.com",
+    "version": 100,
+    "interface": [
+        "IVerify",
+        "IDownload"
+    ],
+    "qpkg_dependencies": {
+        "DownloadStation": "5.0.1"
+    },
+    "description": {
+        "CZE": "",
+        "DAN": "",
+        "DUT": "",
+        "ENG": "Uptobox is a French website hosting..",
+        "ESM": "",
+        "FIN": "",
+        "FRE": "",
+        "GER": "",
+        "GRK": "",
+        "HUN": "",
+        "ITA": "",
+        "JPN": "",
+        "KOR": "",
+        "NOR": "",
+        "POL": "",
+        "POR": "",
+        "ROM": "",
+        "RUS": "",
+        "SCH": "",
+        "SPA": "",
+        "SWE": "",
+        "TCH": "",
+        "THA": "",
+        "TUR": ""
+    }
+}
